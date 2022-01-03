@@ -1,4 +1,5 @@
 # Label-RB 
 
 这是一个给图像标注旋转矩形框的软件。
-![image](https://user-images.githubusercontent.com/24515772/147917514-379975b7-89cf-4820-9a09-9183acac492f.png)
+标注好的信息是保存在FiftyOne的数据集里面。
+![标注软件最新版](https://user-images.githubusercontent.com/24515772/147917809-fdcc4ee3-8243-4a8a-a389-f2299d7750d6.gif)
